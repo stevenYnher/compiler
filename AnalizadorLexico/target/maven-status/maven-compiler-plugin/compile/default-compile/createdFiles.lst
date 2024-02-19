@@ -1,8 +1,13 @@
 codigo/FrmPrincipal$1.class
 codigo/FrmPrincipal$2.class
-codigo/Tokens.class
 codigo/Principal.class
-codigo/FrmPrincipal$4.class
-codigo/FrmPrincipal$3.class
 codigo/Lexer.class
+codigo/FrmPrincipal$5.class
+codigo/CUP$Sintax$actions.class
+codigo/Tokens.class
+codigo/FrmPrincipal$4.class
+codigo/LexerCup.class
+codigo/FrmPrincipal$3.class
+codigo/sym.class
 codigo/FrmPrincipal.class
+codigo/Sintax.class
